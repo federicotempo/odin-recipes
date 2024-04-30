@@ -1,11 +1,14 @@
 .title {
     color: rgb(0, 0, 0);
     background-color: rgba(151, 139, 202, 0.836);
-    font-family:'Times New Roman', Times, serif;
     text-align: center;
     font-size: 30px;
 }
 
 .recipes {
     color: dimgrey;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
 }

@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.food-image {
+    display: block;
+    margin: auto;
+}
