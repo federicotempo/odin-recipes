@@ -1,14 +1,36 @@
 .title {
-    color: rgb(0, 0, 0);
-    background-color: rgba(151, 139, 202, 0.836);
+    color: #00a67d;
+    background-color: #000000;
     text-align: center;
     font-size: 30px;
+    margin: 30px auto;
+    padding: 15px;
+    border: 5px solid #00a67d;
+    max-width: 220px;
 }
 
 .recipes {
     color: dimgrey;
+    text-align: center;
+    border: 2px dotted blue;
+    max-width: 150px;
+    margin: auto;
+    padding: 10px;
 }
+
+.links {
+    text-align: center;    
+    max-width: 200px;
+    border: 2px dotted blue;
+    list-style-type: none;
+    padding: 10px;      
+    margin: 30px auto;
+}
+
+a {
+    color: dimgrey;}
 
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-color: #302d2d;
 }
